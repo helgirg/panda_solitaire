@@ -5,3 +5,6 @@ Verkefnislýsing:
 Dæmi:
 
 Spilin mín eru: [H5] [H6] [S2] [L13] [T8] [S12] þegar síðasta spilið kemur upp þá get ég tekið [L13] og [T8] úr stokknum. Eftir það lítur hann svona út: [H7] [H6] [S2][S12] og við höldum áfram að draga þar sem [H7] og [S12] eru ekki af sömu sort. Ef við værum t.d. með [H7] [H6] [S2][S7] þá gæti ég fjarlægt öll spilin fjögur. Þegar komið er að síðustu spilunum má setja aftasta spilið fremst. Ef [H7] [H6] [S2] [S12] væru síðustu spilin mín þá gæti ég gert [H6] [S2] [S12] [H7] og þarna mætti ég fjarlægja [S2] og [S12] og eftir standa [H6] og [H7] og ég vann kapalinn.
+
+Ath: eins og er spilast kapallinn sjálfur en ætlunin er að útfæra hann þannig
+að notandinn geti spilað hann í command line og útfæra þá curses viðmót
