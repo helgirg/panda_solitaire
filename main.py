@@ -1,4 +1,4 @@
-from spilastokkur import *
+from actions import *
 
 deck = Make_Deck()
 hand = []
